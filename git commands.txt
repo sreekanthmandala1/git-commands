@@ -20,3 +20,31 @@ Add a repository in your github account.
 -->git clone https://github.com/sreekanthmandala1/git-commands.git (This will clone files into your local repository)
 -->git pull origin master (It pulls all the changes made in remote repository into local repository)
 -->git push origin master (It push all the changes made in local repository into remote repository)
+-->git stash -u (To save changes made when they are not in a state to commit them to a repository)
+-->git stash list (modifications made is shown here)
+-->git stash show (For inspecting which files are saved or modified)
+-->git stash apply (To get that file back to commit into repository)
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
