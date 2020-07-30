@@ -24,7 +24,9 @@ Add a repository in your github account.
 -->git stash list (modifications made is shown here)
 -->git stash show (For inspecting which files are saved or modified)
 -->git stash apply (To get that file back to commit into repository)
--->
+-->git log (shows all the changes made)
+-->git log --author="sreekanth" (shows the changes made by author sreekanth)
+-->git log --before="27"
 
 
 
