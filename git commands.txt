@@ -27,7 +27,7 @@ Add a repository in your github account.
 -->git log (shows all the changes made)
 -->git log --author="sreekanth" (shows the changes made by author sreekanth)
 -->git log --before="2020-07-30" (shows the changes made before 3oth july 2020)
--->hello
+-->
 
 
 
