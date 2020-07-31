@@ -27,7 +27,11 @@ Add a repository in your github account.
 -->git log (shows all the changes made)
 -->git log --author="sreekanth" (shows the changes made by author sreekanth)
 -->git log --before="2020-07-30" (shows the changes made before 3oth july 2020)
--->
+------------->>>>>reverting<<<<<<----------
+-->git log --oneline
+-->git revert hashNumber (this will revert the commit made in that hashNumber of that file)
+-->git revert HEAD(this will revert to the last commit)
+-->git rebase master (this will take commits and store them outside the repository and keeps the commit log and history of repository clean)
 
 
 
