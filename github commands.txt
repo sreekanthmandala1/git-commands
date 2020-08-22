@@ -63,8 +63,8 @@ Add a repository in your github account.
 -->git revert HEAD                                                                    (this will revert to the last commit)
 
 -->git rebase master                                                                  (this will take commits and store them outside the repository and keeps the commit log and                                                                                            history of repository clean)
-
-
+-->git reset --hard hashcode                                                          (this will pull the hashchange to your local repository. you get hashcode in git log)
+                
 
 
 
